@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR alx-system_engineering-devops
+ls -lar alx-system_engineering-devops
