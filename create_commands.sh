@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 ARG1=${1:-script_name}
 ARG2=${3:-command}
