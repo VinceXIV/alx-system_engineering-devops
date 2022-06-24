@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Xla -m -q
+ls -pam
